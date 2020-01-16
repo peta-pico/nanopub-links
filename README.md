@@ -1,3 +1,4 @@
-# Links around Nanopublications
+# Links about Nanopublications
 
-...
+- [Official nanopublication site](http://nanopub.org)
+- ...
