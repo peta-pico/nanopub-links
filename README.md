@@ -3,6 +3,7 @@
 - Official site: [nanopub.org](http://nanopub.org)
 - Twitter: [@nanopub_org](https://twitter.com/nanopub_org)
 - Specification: [nanopublication guidelines working draft](http://nanopub.org/guidelines/working_draft/)
+- GitHub organization: [Nanopublication](https://github.com/Nanopublication/)
 - Java library: [nanopub-java](https://github.com/Nanopublication/nanopub-java) ([paper](https://arxiv.org/abs/1508.04977))
 - Validator: [instance 1](http://nanopub.inn.ac/) / [instance 2](http://app.tkuhn.eculture.labs.vu.nl/nanopub-validator/) ([code](https://github.com/tkuhn/nanopub-validator))
 - [Trusty URIs](http://trustyuri.net/)
